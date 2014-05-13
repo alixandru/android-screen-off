@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Screen Off</string>
+    <string name="hello_world"> </string>
+    <string name="device_admin_not_enabled">Screen Off application was not marked as Device Administrator. Please check Security settings.</string>
+    <string name="device_admin_description">Turns the screen off and locks your device with a single touch.</string>
+    <string name="admin_receiver_status_enabled">Screen Off was added as Device Administrator</string>
+    <string name="admin_receiver_status_disabled">Screen Off was removed from Device Administrators list</string>
+
+</resources>
