@@ -28,7 +28,7 @@ public class ScreenOffActivity extends Activity {
 		turnScreenOff(getApplicationContext());
 
 		// then provide feedback
-		((Vibrator) getSystemService(Context.VIBRATOR_SERVICE)).vibrate(100);
+		((Vibrator) getSystemService(Context.VIBRATOR_SERVICE)).vibrate(50);
 
 		// schedule end of activity
 		final Activity activity = this;
